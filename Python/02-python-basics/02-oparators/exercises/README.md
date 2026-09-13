@@ -1,6 +1,3 @@
-حتماً. حالا می سازیم:
-02-python-basics/02-operators/exercises/README.md
-طبق روال، فقط سؤال ها و بدون جواب:
 # Exercises — Operators
 
 در این بخش تمرین های مربوط به عملگرهای مقایسه ای، منطقی و Bitwise قرار دارند.
