@@ -1,4 +1,3 @@
-حتماً. این هم README.md پوشه 03-type-conversion-and-input برای گیت هاب، آماده ی کپی:
 # Type Conversion and Input
 
 در این بخش با تبدیل نوع داده ها و دریافت ورودی از کاربر در Python آشنا می شویم.
